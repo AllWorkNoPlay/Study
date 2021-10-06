@@ -9,6 +9,10 @@ Some excercises from the [AI course](https://puc.kuleuven.be/nl/opleiding/postgr
 So far:
 - breadth first search
 - depth first search
+- generate neighbours
+- loop detection
+- goal detection
+- state representation/state space
 
 Coming soon:
 - early and late goal detection
