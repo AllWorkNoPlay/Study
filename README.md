@@ -1,5 +1,5 @@
 # Study
-Some excercises from the AI course.
+Some excercises from the [AI course](https://puc.kuleuven.be/nl/opleiding/postgraduate_certificate_postgraduaat_artificial_intelligence_in_business_and_industry-4w6o7lx0bjl5dmr0).
 
 ## Examples
 - [Towers of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
